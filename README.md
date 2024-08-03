@@ -1,4 +1,4 @@
-## Hi, I’m [Mariam Abdulhaleem](github.com/mariamabdulhaleem3) 
+# Hi, I’m Mariam 👋🏼
 ### About Me
 I’m a Frontend Developer specializing in React, and I’m working on becoming a Fullstack Developer.
 
@@ -7,7 +7,7 @@ I’m a Frontend Developer specializing in React, and I’m working on becoming 
 -Backend: Learning Node.js
 
 ### Contact
-LinkedIn: [Mariam Abdulhaleem](https://www.linkedin.com/in/mariam-abdulhaleem-ba2791203/)
-Email: mariamabdulhaleem186@gmail.com
+-LinkedIn: [Mariam Abdulhaleem](https://www.linkedin.com/in/mariam-abdulhaleem-ba2791203/)
+-Email: mariamabdulhaleem186@gmail.com
 
-#### Feel free to contact me
+Feel free to contact me. 😊
