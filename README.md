@@ -1,11 +1,10 @@
 # Hi, I’m Mariam 👋🏼
 
-I’m a Frontend Developer specializing in React, and I’m working on becoming a Fullstack Developer.
+I’m a Frontend Developer specializing in React.
 
 ### Skills
 
 - Frontend: React, JS, HTML, CSS
-- Backend: Learning Node.js
 
 ### Contact
 
